@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Hind Soft';
+    src: url('./fonts/HindVadodara-Light.ttf');
+}
+@font-face {
+    font-family: 'Hind Bold';
+    src: url('./fonts/HindVadodara-SemiBold.ttf');
+}
+
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Hind Bold';
+    color: white !important;
+}
+
+span, p {
+    font-family: 'Hind Soft';
+    color: white !important;
+}
+
+.main_view {
+    background-color: rgba(130, 108, 255, 1.0);
+    height: 100vh;
+}
